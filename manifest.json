@@ -3,7 +3,7 @@
     "start_url": "https://dreamsofgrandeur.github.io/web-app-template/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#000000",
+    "theme_color": "#5170ff",
     "icons": [
         {
             "src": "icons/icon-512.png",
