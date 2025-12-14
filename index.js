@@ -1,7 +1,8 @@
-
+/*
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register("/serviceworker.js");
 }
+*/
 
 function turnRedButton() {
     console.log("hello world");
