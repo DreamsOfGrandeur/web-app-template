@@ -1,0 +1,5 @@
+{
+    "name": "Web App",
+    "start_url": "/",
+    "display": "standalone"
+}
