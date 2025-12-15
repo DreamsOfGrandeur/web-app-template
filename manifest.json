@@ -1,6 +1,6 @@
 {
     "name": "Web App",
-    "start_url": "https://dreamsofgrandeur.github.io/web-app-template/",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#5170ff",
